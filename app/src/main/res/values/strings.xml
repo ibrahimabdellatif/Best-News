@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Good News</string>
+    <string name="search">search…</string>
+    <string name="title">TITLE</string>
+    <string name="source">SOURCE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="published_at">PUBLISHED AT</string>
+    <string name="breaking_news">Breaking News</string>
+    <string name="search_news">Search News</string>
+    <string name="save_news">Save News</string>
+    <string name="article_saved_successfully">Article saved successfully</string>
+    <string name="successfully_deleted_item">Successfully deleted article</string>
+</resources>
